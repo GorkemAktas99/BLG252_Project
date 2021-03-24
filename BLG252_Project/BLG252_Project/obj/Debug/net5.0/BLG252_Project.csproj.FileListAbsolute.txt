@@ -1,0 +1,16 @@
+D:\C_Sharp_Apps\BLG252_Project\BLG252_Project\bin\Debug\net5.0\BLG252_Project.exe
+D:\C_Sharp_Apps\BLG252_Project\BLG252_Project\bin\Debug\net5.0\BLG252_Project.deps.json
+D:\C_Sharp_Apps\BLG252_Project\BLG252_Project\bin\Debug\net5.0\BLG252_Project.runtimeconfig.json
+D:\C_Sharp_Apps\BLG252_Project\BLG252_Project\bin\Debug\net5.0\BLG252_Project.runtimeconfig.dev.json
+D:\C_Sharp_Apps\BLG252_Project\BLG252_Project\bin\Debug\net5.0\BLG252_Project.dll
+D:\C_Sharp_Apps\BLG252_Project\BLG252_Project\bin\Debug\net5.0\ref\BLG252_Project.dll
+D:\C_Sharp_Apps\BLG252_Project\BLG252_Project\bin\Debug\net5.0\BLG252_Project.pdb
+D:\C_Sharp_Apps\BLG252_Project\BLG252_Project\obj\Debug\net5.0\BLG252_Project.csprojAssemblyReference.cache
+D:\C_Sharp_Apps\BLG252_Project\BLG252_Project\obj\Debug\net5.0\BLG252_Project.GeneratedMSBuildEditorConfig.editorconfig
+D:\C_Sharp_Apps\BLG252_Project\BLG252_Project\obj\Debug\net5.0\BLG252_Project.AssemblyInfoInputs.cache
+D:\C_Sharp_Apps\BLG252_Project\BLG252_Project\obj\Debug\net5.0\BLG252_Project.AssemblyInfo.cs
+D:\C_Sharp_Apps\BLG252_Project\BLG252_Project\obj\Debug\net5.0\BLG252_Project.csproj.CoreCompileInputs.cache
+D:\C_Sharp_Apps\BLG252_Project\BLG252_Project\obj\Debug\net5.0\BLG252_Project.dll
+D:\C_Sharp_Apps\BLG252_Project\BLG252_Project\obj\Debug\net5.0\ref\BLG252_Project.dll
+D:\C_Sharp_Apps\BLG252_Project\BLG252_Project\obj\Debug\net5.0\BLG252_Project.pdb
+D:\C_Sharp_Apps\BLG252_Project\BLG252_Project\obj\Debug\net5.0\BLG252_Project.genruntimeconfig.cache
